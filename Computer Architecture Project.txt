@@ -1,0 +1,3 @@
+Computer Architecture Project
+
+Shell scripts from Computer Architecture module where we setup an AWS instance and accessed remotely using Putty. One of the learning outcomes was to familiarise participants with Linux and terminal commands/navigation.
