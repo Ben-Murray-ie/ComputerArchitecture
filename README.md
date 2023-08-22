@@ -3,7 +3,31 @@
 Bash scripts written for Computer Architecture module. Scripts were written on a remote AWS instance as part of an exercise to familiarise
 students with Linux, remote server access and the terminal. 
 
-Bash script generates .txt file from various command outputs:
+---
+
+The first bash script generates a text file containing the outputs from several terminal commands on Linux, to demonstrate their purpose.
+
+The second script generates math tables that can be interacted with by the user.
+
+---
+
+**Instructions:**
+
+_Script 1:_
+
+* Navigate to the script in the terminal and run (Linux), or use a terminal emulator such as CMDer (Windows).
+* Output will be to a text file called benMurray.txt in the same directory as the script was run.
+
+_Script 2:_
+
+* Navigate to the script and run as above.
+* User is prompted to choose an operator (+, -, *, / or ^).
+* User is then prompted to choose a number between 1 and 15.
+* Math table showing user selected operation and number is presented on screen, then program closes automatically.
+
+---
+
+**Demonstration:**
 
 ![bash_1](screencaps/CA_2.png)
 
