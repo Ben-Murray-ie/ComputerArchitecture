@@ -1,7 +1,8 @@
 # Computer_Architecture
 
-Bash scripts written for Computer Architecture module. Scripts were written on a remote AWS instance as part of an exercise to familiarise
-students with Linux, remote server access and the terminal. 
+**Computer Architecture & Technology Convergence**
+
+In this module, along with lectures on the history of computers and the trajectory of the industry going forward, we were tasked with creating and setting up an AWS instance and accessing it remotely using Putty to perform certain operations. Part of the project was to use Vim to create two bash scripts to familiarise ourselves with the terminal and Linux.
 
 ---
 
